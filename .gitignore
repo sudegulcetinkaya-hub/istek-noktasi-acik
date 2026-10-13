@@ -1,0 +1,25 @@
+# Yerel/çalışma dosyaları
+.npm-cache/
+ekran-goruntuleri/
+tools/
+tmp/
+output/
+node_modules/
+*.tar
+*.tar.gz
+
+# Üretilen paylaşım çıktıları (build.cjs / share.cjs ile yeniden üretilir)
+paylasim/*.pdf
+paylasim/*.html
+mobil-prototip/dist/
+
+# Dışarıdan indirilen varlıklar (fetch-ui-assets.cjs ile indirilir; yazı tipleri lisanslı)
+assets/*.woff2
+assets/zxing-browser.min.js
+assets/zxing-browser-LICENSE
+assets/zxing-library-LICENSE
+mobil-prototip/
+
+# Açık kopyada yer almayan marka varlıkları
+assets/zara-logo.svg
+assets/zorlu-zara-reference.png

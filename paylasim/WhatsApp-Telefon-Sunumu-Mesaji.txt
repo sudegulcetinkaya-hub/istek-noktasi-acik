@@ -1,0 +1,7 @@
+Merhaba, hazırladığım İstek Noktası projesini görüşünüze sunmak istiyorum. Amacım müşterinin ürün isteğini kolayca takip edebilmesi ve mağaza ile depo ekibinin aynı kayıt üzerinden ilerlemesi.
+
+Mağaza ekranı ve Zara uygulaması olmak üzere iki seçenek hazırladım. Uygulama seçeneğindeki mağaza Wi-Fi doğrulaması, istek sınırı ve depo müdürüne yönelik kontroller de sunumda yer alıyor.
+
+Eklediğim PDF’yi doğrudan telefonunuzdan inceleyebilirsiniz. Ekranlar, önerdiğim süreci anlatmak için örnek verilerle hazırlanmıştır.
+
+Sude Gül Çetinkaya

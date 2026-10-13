@@ -1,0 +1,378 @@
+[
+  {
+    "id": "purpose",
+    "chapter": "Fikir",
+    "title": "Müşteri için netlik. Ekip için kontrol.",
+    "body": "İstek Noktası’nı, müşterinin beklerken bilgi alması ve ekibin işi tek kayıttan yönetmesi için hazırladım. Mağaza ekranına ek olarak, ilgili mağazanın Zara Wi-Fi bağlantısı doğrulanan telefondan da istek oluşturulmasını öneriyorum.",
+    "view": "overview",
+    "label": "Projenin akışı"
+  },
+  {
+    "id": "home",
+    "chapter": "Müşteri",
+    "title": "Kolay başlayan bir mağaza deneyimi.",
+    "body": "İstek oluşturma ve sorgulama iki ayrı seçenek. Sade dil ve büyük düğmeler, her yaştan müşterinin yardım beklemeden ilerlemesini destekliyor.",
+    "view": "kiosk",
+    "label": "İstek noktası ekranı"
+  },
+  {
+    "id": "entry",
+    "chapter": "Müşteri",
+    "title": "Daha az yazma, daha kolay ürün seçimi.",
+    "body": "Etiket tarayıcı ürün girişini kolaylaştırıyor; referans kodu elle de yazılabiliyor. Müşteri aynı ürünü yeniden tarif etmek zorunda kalmadan doğru bedenle ilerliyor.",
+    "view": "kiosk",
+    "label": "Ürün girişi"
+  },
+  {
+    "id": "stock",
+    "chapter": "Müşteri",
+    "title": "Müşteri seçeneklerini birlikte görür.",
+    "body": "Reyon ve depo adedi aynı ekranda ayrı gösteriliyor. Müşteri reyondaki ürüne gidebilir veya depoda uygun stok varsa istek oluşturabilir; karar vermek için aynı bilgiyi tekrar sorması gerekmez.",
+    "view": "kiosk",
+    "label": "Reyon ve depo adedi"
+  },
+  {
+    "id": "map",
+    "chapter": "Müşteri",
+    "title": "Daha anlaşılır mağaza yönlendirmesi.",
+    "body": "Büyük kroki, işaretli alan ve hareketli rota müşterinin ürünü bulmasına yardımcı oluyor. Masa, duvar veya askı bilgisi konumu netleştiriyor. Örnek rota ortadan başlıyor; gerçek yol mağaza planıyla doğrulanacak.",
+    "view": "map",
+    "label": "2298/047 · örnek konum ve rota"
+  },
+  {
+    "id": "no-stock",
+    "chapter": "Müşteri",
+    "title": "Stok yoksa belirsiz bekleme de yok.",
+    "body": "Ürün reyonda ve depoda yoksa durum açıkça belirtiliyor. Uygun depo stoğu olmadan istek alınmaması, müşterinin beklentisini doğru kurmayı ve ekibi sonuçsuz aramalardan korumayı amaçlıyor.",
+    "view": "kiosk",
+    "label": "Stok olmayan beden"
+  },
+  {
+    "id": "request",
+    "chapter": "Müşteri",
+    "title": "Bekleme süresi baştan anlaşılır.",
+    "body": "İstek alındığında, ürün bulunursa tahmini 20–25 dakikada ilgili bölümün istek noktasına geleceği açıklanıyor. Müşteri sonraki adımı bilir; danışmanın aynı süre bilgisini tekrar vermesine gerek kalmaz.",
+    "view": "kiosk",
+    "label": "İstek kaydı · W-1"
+  },
+  {
+    "id": "basket",
+    "chapter": "Müşteri",
+    "title": "Birden fazla ürün, tek sepet.",
+    "body": "Müşteri “+ Ürün ekle” ile kadın, erkek ve çocuk ürünlerini birlikte ister. Her bölüm kendi sırasını korur: W-1, W-2; M-1, M-2; K-1, K-2. Ekip her ürünü ayrı kayıtla takip eder.",
+    "view": "kiosk",
+    "label": "Kadın, erkek ve çocuk ürünleri aynı sepette"
+  },
+  {
+    "id": "contact",
+    "chapter": "Müşteri",
+    "title": "İletişim tercihi müşteride.",
+    "body": "WhatsApp veya SMS için telefon numarası sepet başına bir kez girilir. Bildirim istemeyen müşteri koduyla takip eder. Böylece tekrar bilgi girişi azalır ve müşteri kendine uygun yolu seçer.",
+    "view": "kiosk",
+    "label": "Bildirim tercihi"
+  },
+  {
+    "id": "qr",
+    "chapter": "Müşteri",
+    "title": "Mevcut hesapla kolay eşleştirme.",
+    "body": "Mağaza ekranındaki sepetin, müşterinin mevcut Zara hesap QR’ı okutularak hesaba bağlanmasını öneriyorum. Amaç ek bir hesap açmadan takibi kolaylaştırmak. Gerçek bağlantı için yetkili hesap doğrulaması gerekir.",
+    "view": "kiosk",
+    "label": "Hesap QR’ı için okuma alanı"
+  },
+  {
+    "id": "app",
+    "chapter": "Müşteri",
+    "title": "Durum bilgisi müşterinin yanında.",
+    "body": "Hesaba bağlanan isteğin aşamaları uygulamada izlenir. Müşteri mağazayı gezerken takibe devam edebilir; danışman da tekrar eden durum sorularına daha az zaman ayırabilir. Bu ekran uygulama için bir öneridir.",
+    "view": "phone",
+    "label": "Zara uygulaması için istek ekranı önerisi"
+  },
+  {
+    "id": "lookup",
+    "chapter": "Müşteri",
+    "title": "Telefon kullanmadan da takip.",
+    "body": "Mağaza ekranından bölüm ve istek koduyla sonuç görülebilir. Uygulamayı kullanmayan müşteriler de aynı hizmete ulaşır; sorguda kişisel bilgiler gösterilmez.",
+    "view": "kiosk",
+    "label": "W-1 durum sorgusu"
+  },
+  {
+    "id": "queue",
+    "chapter": "Depo",
+    "title": "Depoya eksiksiz bir iş kaydı.",
+    "body": "Ürün, beden ve bölüm tek kayıtta ekibin önüne gelir. Çalışan aramayı başlatır; sözlü aktarımda bilgi kaybını ve aynı işin tekrar ele alınmasını azaltmak hedeflenir.",
+    "view": "hh",
+    "label": "Depo el cihazı · yeni istek"
+  },
+  {
+    "id": "search",
+    "chapter": "Depo",
+    "title": "Aramanın başladığı herkes için net.",
+    "body": "Depo işlemi müşteri ekranına yansır. Müşteri isteğinin ele alındığını görür; çalışan aramaya odaklanabilir. Ürün bulunmadan hazır bildirimi gönderilmez.",
+    "view": "search",
+    "label": "Depo işlemi ve müşteri ekranı"
+  },
+  {
+    "id": "found",
+    "chapter": "Depo",
+    "title": "Doğru ürün, doğru beden.",
+    "body": "Etiket; referans, renk ve bedenle eşleştirilir. Yanlış ürünün hazırlığa geçmemesi, teslimde karışıklığı ve müşterinin yeniden bekleme ihtiyacını azaltmayı amaçlar.",
+    "view": "hh",
+    "label": "Ürün doğrulama"
+  },
+  {
+    "id": "cart",
+    "chapter": "Depo",
+    "title": "Ürün hareketi ekip için görünür.",
+    "body": "Doğrulanan ürün bölümünün arabasına yüklenir. Tüm adetler yüklenmeden sevk tamamlanamaz. Ekip hangi ürünün nerede olduğunu aynı kayıt üzerinden izler.",
+    "view": "manager",
+    "label": "Arabalar · yükleme"
+  },
+  {
+    "id": "transit",
+    "chapter": "Teslim",
+    "title": "Müşteriye doğru aşamada doğru bilgi.",
+    "body": "Sevk edilen ürün “Getiriliyor” olarak görünür. Müşteri ürünün yolda olduğunu anlar; teslim noktasına erken yönlendirilmeden alışverişine devam edebilir.",
+    "view": "notification",
+    "label": "Ürün istek noktasına geliyor"
+  },
+  {
+    "id": "ready",
+    "chapter": "Teslim",
+    "title": "Hazır bildirimiyle net yönlendirme.",
+    "body": "Ürünün varışı doğrulanınca müşteriye ilgili bölümün istek noktası bildirilir. Raf adı veya kod gösterme talebi verilmez. Bildirim, müşterinin nereye gitmesi gerektiğine odaklanır.",
+    "view": "notification",
+    "label": "Teslime hazır · 20 dakikalık teslim alma süresi"
+  },
+  {
+    "id": "delivered",
+    "chapter": "Teslim",
+    "title": "Tamamlanan iş açık listede kalmaz.",
+    "body": "Personel teslimi kaydeder; müşteri ekranı ve açık iş listesi güncellenir. Depo müdürü bekleyen işle tamamlanan işi ayırabilir.",
+    "view": "phone",
+    "label": "Teslim tamamlandı"
+  },
+  {
+    "id": "collection-timeout",
+    "chapter": "Teslim",
+    "title": "Alınmayan ürün de kontrollü ilerler.",
+    "body": "Önerilen akışta, hazır olduktan sonra 20 dakika alınmayan ürün dönüşe yönlendirilir. Ekip ürünü takip etmeyi sürdürür; ürün henüz depoya dönmeden kullanılabilir stok sayılmaz.",
+    "view": "hh",
+    "label": "Teslim süresi dolan W-2"
+  },
+  {
+    "id": "returned",
+    "chapter": "Teslim",
+    "title": "Stok, fiziksel hareketle güncellenir.",
+    "body": "Dönen ürünün etiketi okutulunca dönüş tamamlanır. Teslim noktasında kalan ürünün yeniden istenmesini önlemek, hem stok güvenilirliğini hem müşteriye verilen bilgiyi destekler.",
+    "view": "phone",
+    "label": "Depoya dönüş doğrulandı"
+  },
+  {
+    "id": "reasons",
+    "chapter": "Ürün bulunamazsa",
+    "title": "Çalışan için kısa, yönetici için anlamlı.",
+    "body": "Dört neden kullanılır: stok hatası, güncel olmayan depo konumu, satışa uygun olmayan ürün ve “Diğer”. Kısa seçim listesi işlemi kolaylaştırır; kayıtlar tekrar eden sorunları görünür kılar.",
+    "view": "reasons",
+    "label": "Ürün bulunamama nedenleri"
+  },
+  {
+    "id": "other-note",
+    "chapter": "Ürün bulunamazsa",
+    "title": "Özel durumun bilgisi kaybolmaz.",
+    "body": "“Diğer” seçeneğinde kısa açıklama eklenir. Not, kontrol kaydına ve vardiya devrine geçer. Müşteri sade bir sonuç görür; ekip çözüm için gereken ayrıntıyı korur.",
+    "view": "reasons",
+    "label": "Diğer · açıklama alanı"
+  },
+  {
+    "id": "second-search",
+    "chapter": "Ürün bulunamazsa",
+    "title": "Sonuçtan önce ikinci kontrol.",
+    "body": "Stok hatası veya özel durumda ikinci arama yapılır. Amaç bulunabilecek bir ürünü erken kapatmamak ve müşteriye doğrulanmış sonuç vermektir. Önceki notlar aramayı devralan ekibe aktarılır.",
+    "view": "hh",
+    "label": "İkinci arama"
+  },
+  {
+    "id": "unavailable",
+    "chapter": "Ürün bulunamazsa",
+    "title": "Olumsuz sonuç da açıkça paylaşılır.",
+    "body": "İkinci kontrolde de bulunamayan istek kapatılır ve müşteri bilgilendirilir. Böylece belirsiz bekleme uzamaz; iç yazışma ve depo notları müşteri ekranına taşınmaz.",
+    "view": "notification",
+    "label": "Temin edilemeyen ürün"
+  },
+  {
+    "id": "count",
+    "chapter": "Depo müdürü",
+    "title": "Tekrarlayan stok sorununun önüne geçme.",
+    "body": "Fiziksel sayım ve kontrol sonucu kaydedilir. Sorun çözülene kadar aynı üründen yeni ayırma yapılmaz. Müdür, tek tek sonuçsuz aramalar yerine sorunun kaynağına müdahale edebilir.",
+    "view": "manager",
+    "label": "Stok kontrolü · sayım sonucu"
+  },
+  {
+    "id": "floor-check",
+    "chapter": "Depo müdürü",
+    "title": "Görev devri, bilgi kaybı olmadan.",
+    "body": "Depo konumu güncel değilse ürün reyonda kontrol edilir. İstek ve notlar destek ekibine aktarılır; müşterinin talebini baştan anlatmasına gerek kalmaz.",
+    "view": "hh",
+    "label": "Konum kontrolü ve görev devri"
+  },
+  {
+    "id": "damaged",
+    "chapter": "Ürün bulunamazsa",
+    "title": "Ürün uygunluğu teslimden önce kontrol edilir.",
+    "body": "Hasarlı veya satışa uygun olmayan ürün müşteriye gönderilmez. Neden kaydı ve stok kontrol işi, ekibin sorunu takip etmesini ve aynı ürünün yeniden ayrılmasını önlemesini destekler.",
+    "view": "notification",
+    "label": "Satışa uygun olmayan ürün"
+  },
+  {
+    "id": "manager-queue",
+    "chapter": "Depo müdürü",
+    "title": "Müdür için görünür iş yükü.",
+    "body": "Bekleme süresi, geciken aşama ve sorumlu ekip birlikte görünür. Müdür desteği ihtiyacın olduğu işe yönlendirebilir; öncelik kararını kayıt üzerinden verebilir.",
+    "view": "manager",
+    "label": "İş sırası ve gecikmeler"
+  },
+  {
+    "id": "capacity",
+    "chapter": "Depo müdürü",
+    "title": "Hizmet, ekibin kapasitesiyle yönetilir.",
+    "body": "Yoğunluk bildirimi ve yeni istek alımını durdurma ayrı yönetilir. Mevcut istekler takipte kalır. Amaç iş yükünü görünür kılmak ve karşılanamayacak beklentiler oluşmasını azaltmaktır.",
+    "view": "hh",
+    "label": "Depo kapasitesi"
+  },
+  {
+    "id": "online",
+    "chapter": "Depo müdürü",
+    "title": "Aynı stoğa birden fazla söz verilmez.",
+    "body": "Mağaza isteği, online sipariş ve reyon görevi ortak stoktan ayrılır. Yalnızca serbest adet üzerinden yeni istek alınır. Bu yaklaşım, kanallar arasında tutarlı stok yönetimini destekler.",
+    "view": "manager",
+    "label": "Ortak stok ayırmaları"
+  },
+  {
+    "id": "replenish",
+    "chapter": "Depo müdürü",
+    "title": "Talep, reyon tamamlamaya yol gösterir.",
+    "body": "İstek sayısı ve reyon adedi birlikte değerlendirilir. Müdür ihtiyaç görülen ürün için tamamlama görevi açabilir; ürün arama taleplerini reyon planlamasında kullanabilir.",
+    "view": "manager",
+    "label": "Reyon tamamlama görevi"
+  },
+  {
+    "id": "replenished",
+    "chapter": "Depo müdürü",
+    "title": "Güncel reyon bilgisi, daha doğru yönlendirme.",
+    "body": "Ürün hedef konumda okutulduğunda reyon adedi güncellenir. Ekip tamamlanan hareketi kayda geçirir; müşteri ekranı da yeni durumu gösterir.",
+    "view": "kiosk",
+    "label": "Reyon stoğu güncellendi"
+  },
+  {
+    "id": "handover",
+    "chapter": "Depo müdürü",
+    "title": "Vardiya değişir, işin bilgisi korunur.",
+    "body": "Açık istekler, stok sorunları, arabalar ve tamamlama işleri tek devir kaydında toplanır. Yeni ekip, önceki vardiyayı yeniden aramadan işe devam edebilir.",
+    "view": "manager",
+    "label": "Vardiya devir kaydı"
+  },
+  {
+    "id": "accepted",
+    "chapter": "Depo müdürü",
+    "title": "Devirde sorumluluk ve zaman netleşir.",
+    "body": "Yeni vardiya devri onayladığında zaman kaydedilir. Müdür hangi işlerin devredildiğini ve ne zaman kabul edildiğini görebilir; takibin kişilerin hafızasına bağlı kalması azalır.",
+    "view": "manager",
+    "label": "Vardiya devri tamamlandı"
+  },
+  {
+    "id": "app-option",
+    "chapter": "2. seçenek · Zara uygulaması",
+    "title": "Müşteri seçer, ekip aynı akışla ilerler.",
+    "body": "Mağaza ekranı herkes için kullanılabilir. İkinci seçenekte müşteri kendi Zara hesabından, ilgili mağazanın Wi-Fi bağlantısı doğrulanınca istek gönderir. Her iki kanal aynı depo ve teslim sürecine bağlanır.",
+    "view": "options",
+    "label": "İkinci fikir · Zara uygulamasından istek"
+  },
+  {
+    "id": "app-adviser",
+    "chapter": "2. seçenek · Zara uygulaması",
+    "title": "Danışmana müşteriyle ilgilenmek için alan.",
+    "body": "Kısa bir yönlendirmeyle müşteri Zara Wi-Fi ağına bağlanıp kendi telefonundan ilerleyebilir. Tekrar eden bilgi girişi ve durum sorularını azaltarak danışmanın ürün seçimi ve müşteri desteğine zaman ayırmasını hedefliyorum.",
+    "view": "adviser",
+    "label": "Satış danışmanının yönlendirmesi"
+  },
+  {
+    "id": "app-product",
+    "chapter": "2. seçenek · Zara uygulaması",
+    "title": "Mevcut alışveriş deneyiminin devamı.",
+    "body": "Müşteri kendi hesabında ürün ve beden seçer; reyon ile depo durumunu birlikte görür. Sepetini hazırlayabilir. Depoya iş açılması için ilgili mağazanın Zara Wi-Fi bağlantısının doğrulanması gerekir.",
+    "view": "direct-app",
+    "label": "Zara uygulaması için ürün ekranı önerisi"
+  },
+  {
+    "id": "app-basket",
+    "chapter": "2. seçenek · Zara uygulaması",
+    "title": "Kişisel bilgileri yeniden girmeden.",
+    "body": "Mevcut oturumla birden fazla ürün aynı sepete eklenir. Telefon, e-posta, isim veya hesap QR’ı tekrar istenmez. Müşteri daha az adımla ilerler; çalışan kişisel bilgi girişiyle uğraşmaz.",
+    "view": "direct-app",
+    "label": "Uygulamadan istek sepeti"
+  },
+  {
+    "id": "app-wifi",
+    "chapter": "2. seçenek · Mağaza bağlantısı",
+    "title": "Depoya gönderim için Zara Wi-Fi şartı.",
+    "body": "Her gönderimde ilgili mağazanın Zara Wi-Fi bağlantısı doğrulanır. Amaç mağaza dışından açılan istekleri sınırlamak ve ekibin mağaza müşterilerine odaklanmasını sağlamaktır. Ağ adı tek başına doğrulama sayılmaz.",
+    "view": "direct-app",
+    "label": "Mağaza Wi-Fi doğrulaması · örnek"
+  },
+  {
+    "id": "app-submit",
+    "chapter": "2. seçenek · Zara uygulaması",
+    "title": "Gönderimden önce üç kontrol.",
+    "body": "Mağaza bağlantısı, son 15 dakikadaki toplam ürün sayısı ve uygun stok kontrol edilir. Uygun sepet ortak sıraya girer. Kontrollerin merkezi sistemde uygulanması, aynı kuralın her oturumda korunmasını sağlar.",
+    "view": "direct-app",
+    "label": "İsteklerim · hesaba bağlı takip"
+  },
+  {
+    "id": "app-queue",
+    "chapter": "2. seçenek · Zara uygulaması",
+    "title": "Ekibe ikinci bir iş listesi açılmaz.",
+    "body": "Uygulamadan gelen istek, mağaza ekranıyla aynı depoda arama, doğrulama ve teslim adımlarını izler. Müşteriye yeni bir seçenek sunarken ekibin takibini tek listede tutmayı amaçlıyorum.",
+    "view": "hh",
+    "label": "Uygulamadan gelen istek · depo el cihazı"
+  },
+  {
+    "id": "app-ready",
+    "chapter": "2. seçenek · Zara uygulaması",
+    "title": "Bildirim kapalı olsa da takip sürer.",
+    "body": "Ürün istek noktasına geldiğinde uygulamada hazır görünür. İzin varsa bildirim gönderilir; yoksa İsteklerim ekranından izlenir. Müşteri ne zaman ve nereye gideceğini öğrenir.",
+    "view": "direct-app",
+    "label": "Uygulamada teslime hazır bilgisi"
+  },
+  {
+    "id": "app-delivered",
+    "chapter": "2. seçenek · Zara uygulaması",
+    "title": "Müşteri ve ekip aynı sonucu görür.",
+    "body": "Personel teslimi kaydettiğinde uygulamadaki istek de tamamlanır. Bulunamayan veya alınmayan ürünlerde aynı kontrol ve dönüş kuralları geçerlidir; kanal değişse de süreç tutarlı kalır.",
+    "view": "direct-app",
+    "label": "Uygulamada teslim tamamlandı"
+  },
+  {
+    "id": "app-limit",
+    "chapter": "2. seçenek · İstek sınırı",
+    "title": "Dengeli hizmet için 15 dakikada 10 ürün.",
+    "body": "Hesap başına son 15 dakikada en fazla 10 ürün öneriyorum. İptal ve teslim sayacı azaltmaz; yenilemek veya uygulamayı kapatmak sıfırlamaz. Amaç tekrar tekrar istek açılmasının diğer müşterilerin hizmetini aksatmasını sınırlamaktır.",
+    "view": "direct-app",
+    "label": "Sınıra ulaşılınca yeni gönderim bekler"
+  },
+  {
+    "id": "brand-fit",
+    "chapter": "Zara hizmetleriyle bağlantı",
+    "title": "Mevcut hizmetleri tamamlayan bir öneri.",
+    "body": "Zara Wi-Fi ve Store Mode içindeki ürün bulma hizmeti, önerinin dayandığı mevcut örneklerdir. İstek Noktası bu deneyime depodan talep ve takip adımını eklemeyi amaçlar. Wi-Fi şartı ve 15 dakika / 10 ürün sınırı bu projeye ait önerilerdir.",
+    "view": "brand-fit",
+    "label": "Mevcut hizmetler, önerilen katkı ve uygulama koşulları"
+  },
+  {
+    "id": "next",
+    "chapter": "Mağazada deneme",
+    "title": "Ölçerek başlayalım, ekiple geliştirelim.",
+    "body": "Önerim, onaylı bağlantılar tamamlandıktan sonra tek bölümde denemek. Müşterinin bekleme deneyimini, danışmana gelen durum sorularını, depo arama süresini ve tekrar eden stok sorunlarını önceki işleyişle karşılaştırmak istiyorum.",
+    "view": "next",
+    "label": "Gerçek kullanım için sonraki adım"
+  }
+]

@@ -1,0 +1,326 @@
+{
+  "page": {
+    "author": [
+      "Hazırlayan: Sude Gül Çetinkaya",
+      "Prepared by: Sude Gül Çetinkaya"
+    ],
+    "eyebrow": [
+      "Mağaza deneyimi ve operasyon geliştirme önerisi",
+      "A proposal for store service and operations"
+    ],
+    "projectTitle": [
+      "İstek Noktası",
+      "Request Point"
+    ],
+    "lead": [
+      "Müşteri için netlik. Ekip için kontrol.",
+      "Clarity for customers. Control for the team."
+    ],
+    "purpose": [
+      "İstek Noktası’nı, müşterinin ürününü beklerken bilgiye ulaşması, satış danışmanının müşteriyle daha fazla ilgilenebilmesi ve depo ekibinin işi tek kayıttan yönetmesi için hazırladım. Mağaza ekranı ve Zara uygulaması aynı istek, stok ve teslim sürecine bağlanıyor.",
+      "I designed Request Point to keep customers informed, give sales advisers more time for personal service and help the stockroom manage work in one record. The in-store screen and Zara app share the same request, stock and collection process."
+    ],
+    "flowRequest": [
+      "İstek",
+      "Request"
+    ],
+    "flowSearch": [
+      "Depoda arama",
+      "Stockroom search"
+    ],
+    "flowPrepare": [
+      "Hazırlık",
+      "Preparation"
+    ],
+    "flowCollect": [
+      "Teslim",
+      "Collection"
+    ],
+    "start": [
+      "Sunumu başlat ↗",
+      "Start presentation ↗"
+    ],
+    "try": [
+      "Prototipi kendim deneyeyim",
+      "Try the app option"
+    ],
+    "disclosure": [
+      "Proje önerisi · Ekranlar örnek verilerle çalışır. Gerçek mağaza, hesap, Wi-Fi ve bildirim bağlantıları henüz yoktur.",
+      "Project proposal · Screens use sample data. Live store, account, Wi-Fi and notification integrations are not connected."
+    ],
+    "appEyebrow": [
+      "2. seçenek · Zara uygulaması",
+      "Option 2 · Zara app"
+    ],
+    "appHeading": [
+      "Kendi telefonundan istek, mağazada kontrollü hizmet.",
+      "Requests from the customer’s phone, with store controls."
+    ],
+    "appPurpose": [
+      "Müşteri mevcut Zara hesabıyla ilerler; kişisel bilgilerini yeniden girmez. Depoya gönderim ilgili mağazanın doğrulanmış Zara Wi-Fi bağlantısıyla açılır. 15 dakikada 10 ürün sınırı, tekrar eden isteklerin ekibin ve diğer müşterilerin zamanını almasını sınırlamak için önerilmiştir.",
+      "Customers use their existing Zara accounts without entering personal details again. Submission requires verified Zara Wi-Fi at the selected store. A proposed limit of 10 items in 15 minutes helps protect staff and other customers from repeated requests."
+    ],
+    "adviserQuote": [
+      "“Dilerseniz mağazamızın Zara Wi-Fi ağına bağlanıp ürün isteğinizi uygulamadan oluşturabilirsiniz. Durumunu da aynı ekrandan takip edebilirsiniz.”",
+      "“You can connect to this store’s Zara Wi-Fi and request the item in the app. You can also follow its status there.”"
+    ],
+    "appDisclosure": [
+      "Bu öneride hesap ve Wi-Fi doğrulaması örnek olarak gösterilir. Gerçek kullanımda bağlantıyı ve süreli istek sınırını Zara’nın merkezi sistemi doğrulamalıdır. Prototip sayacı bu tarayıcıda saklanır; iptal etmek veya sayfayı yenilemek sayacı sıfırlamaz.",
+      "Account and Wi-Fi verification are demonstrated with sample data. In production, Zara’s central system must verify the connection and enforce the time-based limit. This prototype saves its counter in this browser; cancellations and page refreshes do not reset it."
+    ],
+    "presentationName": [
+      "İSTEK NOKTASI",
+      "REQUEST POINT"
+    ],
+    "presentationSubtitle": [
+      "Proje sunumu",
+      "Project presentation"
+    ],
+    "close": [
+      "Sunumdan çık ×",
+      "Exit ×"
+    ],
+    "fullscreen": [
+      "Tam ekran",
+      "Full screen"
+    ],
+    "sample": [
+      "Örnek verilerle gösterim",
+      "Demonstration with sample data"
+    ],
+    "previous": [
+      "← Önceki",
+      "← Previous"
+    ],
+    "next": [
+      "Sonraki →",
+      "Next →"
+    ],
+    "speedLabel": [
+      "Adım süresi",
+      "Slide duration"
+    ],
+    "jumpLabel": [
+      "Bölüme git",
+      "Go to slide"
+    ],
+    "help": [
+      "Sağ/sol ok: önceki/sonraki adım. Ekranları kullanmak için sunumdan çıkıp prototipi deneyebilirsiniz.",
+      "Left/right arrows: previous/next slide. Exit the presentation to try the interactive prototype."
+    ],
+    "wifiTitle": [
+      "Uygulama seçeneğinde: doğrulanmış Zara Wi-Fi",
+      "App option: verified Zara Wi-Fi"
+    ],
+    "wifiBody": [
+      "Depoya istek göndermek için ilgili mağazanın Zara Wi-Fi bağlantısı doğrulanır. Hesap başına son 15 dakikada en fazla 10 ürün; iptal etmek sayacı azaltmaz.",
+      "Sending a stockroom request requires verified Zara Wi-Fi at the selected store. Up to 10 items per account in any 15 minutes; cancellations do not reduce the count."
+    ],
+    "customerValueTitle": [
+      "Müşteri",
+      "Customer"
+    ],
+    "customerValue": [
+      "Stok, konum ve istek durumu tek akışta.",
+      "Availability, location and request status in one flow."
+    ],
+    "adviserValueTitle": [
+      "Mağaza ekibi",
+      "Store team"
+    ],
+    "adviserValue": [
+      "Daha az tekrar, kişisel hizmete daha fazla zaman.",
+      "Less repetition, more time for personal service."
+    ],
+    "managerValueTitle": [
+      "Depo müdürü",
+      "Stockroom manager"
+    ],
+    "managerValue": [
+      "İş yükü, gecikme ve stok sorunları görünür.",
+      "A clear view of workload, delays and stock issues."
+    ],
+    "fitHeading": [
+      "Zara’nın mevcut hizmetleriyle bağlantı",
+      "Connection to Zara’s existing services"
+    ],
+    "fitBody": [
+      "Öneri, Zara Wi-Fi ve Store Mode içindeki Click and Find hizmetini mağazada ürün talebi ve takiple tamamlamayı amaçlar. Hizmetlerin kapsamı mağaza ve pazara göre doğrulanmalıdır.",
+      "The proposal aims to extend Zara Wi-Fi and Click and Find within Store Mode with stockroom requests and tracking. Availability must be checked for each store and market."
+    ],
+    "fitNote": [
+      "Canlı kullanım öncesinde Zara’nın yetkili ekipleriyle operasyon, bilgi güvenliği ve kişisel veri süreçleri değerlendirilmelidir. Bu sunum şirket onayı veya iç politikalara uygunluk teyidi değildir.",
+      "Before live use, Zara’s authorised teams need to review operations, information security and personal data handling. This presentation does not represent company approval or confirmation of internal policy compliance."
+    ],
+    "sourcesLabel": [
+      "Resmî hizmet kaynakları",
+      "Official service references"
+    ],
+    "wifiSource": [
+      "Zara Wi-Fi · Türkiye",
+      "Zara Wi-Fi · Türkiye"
+    ],
+    "storeSource": [
+      "Store Mode · Malezya",
+      "Store Mode · Malaysia"
+    ]
+  },
+  "stage": {
+    "Tek isteğin yolculuğu": "One request, from start to finish",
+    "Ürününü seçer, isteğini takip eder.": "Selects an item and follows the request.",
+    "Arar, doğrular ve sevk eder.": "Searches, verifies and dispatches.",
+    "Varışı ve teslimi kaydeder.": "Records arrival and collection.",
+    "Geciken işi ve stok sorununu görür.": "Sees delays and stock issues.",
+    "Müşteri": "Customer",
+    "Depo müdürü": "Stockroom manager",
+    "İstek noktası": "Request point",
+    "Önce tek bölümde deneme": "Start with one department",
+    "Başlamadan önce gerçek stok, ürün kodları, mağaza krokisi ve hesap bağlantısı gerekir.": "Live stock, product references, an approved store map and account integration are needed before a store trial.",
+    "Takip edeceğim": "What I would track",
+    "Ekiple değerlendireceğim": "What I would review with the team",
+    "Arama ve teslim süresi": "Search and collection time",
+    "Bulunamayan ürün nedenleri": "Reasons items cannot be found",
+    "Vardiyada devreden açık işler": "Open work passed to the next shift",
+    "Ekranların anlaşılması": "How clear the screens are",
+    "El cihazındaki işlem sayısı": "Number of handheld actions",
+    "Müşterinin doğru noktaya yönlenmesi": "Whether customers reach the right point",
+    "Bu prototipi, önerdiğim süreci birlikte deneyebilmek için hazırladım.": "I prepared this prototype so we can try the proposed process together.",
+    "Stok hatasından dolayı ürün bulunamadı": "Item not found due to a stock discrepancy",
+    "Depo konumu güncel değil; ürün reyonda olabilir": "Stockroom location is outdated; item may be on the shop floor",
+    "Hasarlı veya satışa uygun değil": "Damaged or unfit for sale",
+    "Ürünün etiketi okunamadı. Referans ve beden tekrar kontrol edilecek.": "The item label could not be read. The reference and size will be checked again.",
+    "Fiziksel sayım tamamlandı. Ürün depoda bulunamadı.": "Physical count completed. The item was not found in the stockroom.",
+    "K-1 için reyon kontrolü sürüyor. Hasarlı erkek ürünü için stok kontrolü açık.": "Shop-floor check is ongoing for K-1. Stock control is open for the damaged men's item.",
+    "Kadın depo ekibi": "Women's stockroom team",
+    "Erkek depo ekibi": "Men's stockroom team",
+    "Çocuk depo ekibi": "Kids' stockroom team",
+    "W depo ekibi": "Women's stockroom team",
+    "M depo ekibi": "Men's stockroom team",
+    "K depo ekibi": "Kids' stockroom team",
+    "Destek ekibi": "Support team",
+    "Depo sorumlusu": "Stockroom supervisor",
+    "Kontrol gerekli": "Check required",
+    "Depo konumu:": "Stockroom location:",
+    "Aramaya başladım": "Start search",
+    "Etiket: tekil kod | referans | renk | beden": "Label: unique ID | reference | colour | size",
+    "Ürünü doğrula": "Verify item",
+    "Demo etiketi okut": "Scan sample label",
+    "adet doğrulandı. Gerçek kullanımda etiket okuyucudan alınır.": "units verified. A label reader supplies this data in store.",
+    "Arama sorunu bildir": "Report a search issue",
+    "Özel durumu açıklayın": "Describe the special case",
+    "En fazla 500 karakter.": "Up to 500 characters.",
+    "Açıklamayı kaydet": "Save note",
+    "Vazgeç": "Cancel",
+    "İkinci kontrolü başlat": "Start second search",
+    "Temin edilemiyor · kapat": "Unavailable · close request",
+    "Ürünler doğrulandı. Aşağıdaki müdür panelinin Arabalar sekmesinden uygun arabaya yükleyin.": "Items verified. Load them onto the correct trolley in the manager panel.",
+    "Depoya dönen tekil etiket": "Unique label of returned item",
+    "Depoya dönüşü doğrula": "Confirm stockroom return",
+    "Doğrulanacak etiketler:": "Labels to verify:",
+    "okutuldu.": "scanned.",
+    "İşleme başlamak için bir istek seçin.": "Select a request to begin.",
+    "İstek almıyor": "New requests paused",
+    "Yoğun": "Busy",
+    "Araba yükleme ve teslim": "Trolley loading and collection",
+    "Yalnızca doğrulanmış ürünler yüklenir. Sevk ve varış işlemi seçilen arabanın içeriğini etkiler.": "Only verified items can be loaded. Dispatch and arrival apply to the items on the selected trolley.",
+    "Arabanın bölümü": "Trolley department",
+    "Yeni araba aç": "Create trolley",
+    "Yükleniyor": "Loading",
+    "Yolda": "On the way",
+    "Teslim noktasında": "At the request point",
+    "doğrulanmış ürün": "verified items",
+    "Doğrulanmış ürün etiketi": "Verified item label",
+    "Ürün seçin": "Select item",
+    "Arabaya yükle": "Load onto trolley",
+    "Bu arabayı sevk et": "Dispatch this trolley",
+    "Varış noktasında okutulan bölüm": "Department scanned on arrival",
+    "Noktaya varışı doğrula": "Confirm arrival at request point",
+    "Bölüm seçin": "Select department",
+    "Stok ve konum kontrolü": "Stock and location control",
+    "Aynı ürünün tekrarlanan sorunları tek görevde toplanır. Fiziksel depo sayımını ve kontrol sonucunu kaydedin.": "Repeated issues for the same item are grouped into one task. Record the physical stockroom count and check result.",
+    "Çözüldü": "Resolved",
+    "Sayımda bulunan depo adedi": "Physical stockroom count",
+    "Kontrol sonucu": "Check result",
+    "Sayımı kaydet ve kapat": "Save count and close",
+    "Açık ayırmaların altındaki sayım kaydedilemez. İlgili istek ve ayırmaları önce çözün.": "A count cannot be lower than outstanding allocations. Resolve those requests and allocations first.",
+    "Açık işler": "Open work",
+    "En uzun bekleyen aşama önce gösterilir. Süreler işlem kayıtlarından hesaplanır.": "The longest-waiting stage appears first. Times are calculated from request events.",
+    "İstek / ürün": "Request / item",
+    "Aşama": "Stage",
+    "Sorumlu ekip": "Responsible team",
+    "İşlem": "Action",
+    "Sorumlu": "Owner",
+    "Görevi devret": "Reassign",
+    "El cihazında aç": "Open on handheld",
+    "İkinci kontrol": "Second search",
+    "Temin edilemiyor": "Unavailable",
+    "Aşama sınırı aşıldı": "Stage limit exceeded",
+    "Aşama sınırını aşan": "Over stage limit",
+    "En eski açık isteğin yaşı": "Oldest open request",
+    "Çözülmemiş stok kontrolü": "Unresolved stock checks",
+    "açık istek": "open requests",
+    "Ortak stok ayırmaları": "Shared stock allocations",
+    "Depodaki fiziksel adet, ayrılan adet ve yeni istek için serbest adet ayrı gösterilir. Online sipariş alanı entegrasyonu canlandırır; gerçek sipariş oluşturmaz.": "Physical stock, allocations and available units are shown separately. Online orders are simulated; no real order is placed.",
+    "Ürün / beden": "Item / size",
+    "Reyon görevi": "Replenishment task",
+    "Serbest": "Available",
+    "Stok kontrolü · ayırmaya kapalı": "Stock check · allocations blocked",
+    "Online ayırma · demo": "Online allocation · demo",
+    "Sipariş numarası": "Order number",
+    "Stok ayır": "Allocate stock",
+    "Ayırmayı kaldır": "Release allocation",
+    "adet ayrıldı": "units allocated",
+    "Reyon tamamlama": "Shop-floor replenishment",
+    "Son bir saatteki istek adedi ve düşük reyon stoğuna göre sıralanır. Örnek hedef her beden için 3 adettir. Görev açılınca depo stoğu ayrılır; hedef konum doğrulanınca reyona aktarılır.": "Suggested by requests in the past hour and low shop-floor stock. The example target is 3 units per size. A task reserves stock; confirming the destination moves it to the shop floor.",
+    "Açılan görevler": "Created tasks",
+    "Tamamlama bekliyor": "Awaiting replenishment",
+    "Hedef okutulan konum": "Scanned destination location",
+    "Reyona yerleşimi doğrula": "Confirm shop-floor placement",
+    "Görevi iptal et": "Cancel task",
+    "Vardiya devri": "Shift handover",
+    "Devir kaydı tüm bölümleri kapsar. Açık işler, stok sorunları, arabalar, reyon görevleri ve online ayırmalar o anki hâliyle saklanır.": "The handover covers all departments and saves a snapshot of open work, stock issues, trolleys, replenishment tasks and online allocations.",
+    "Devir anındaki işler": "Work at handover",
+    "Devreden vardiya": "Outgoing shift",
+    "Devralan vardiya": "Incoming shift",
+    "Devir notu": "Handover note",
+    "Devir kaydı oluştur": "Create handover record",
+    "Vardiya seçin": "Select shift",
+    "Devri kabul et": "Accept handover",
+    "vardiyası devraldı": "shift accepted the handover",
+    "Sabah": "Morning",
+    "Akşam": "Evening",
+    "stok sorunu": "stock issues",
+    "reyon görevi": "replenishment tasks",
+    "online ayırma": "online allocations",
+    "araba": "trolleys",
+    "Depoya dönüş bekliyor": "Awaiting stockroom return",
+    "Depoya döndü": "Returned to stockroom",
+    "Teslim edildi": "Collected",
+    "Temin edilemedi": "Could not be supplied",
+    "İstek noktasında": "At the request point",
+    "Alındı": "Received",
+    "Aranıyor": "Searching",
+    "Bulundu": "Found",
+    "Kadın": "Women",
+    "Erkek": "Men",
+    "Çocuk": "Kids",
+    "Ekru": "Ecru",
+    "Beyaz": "White",
+    "Siyah": "Black",
+    "Mavi": "Blue",
+    "Diğer": "Other",
+    "bildirim": "reports",
+    "arama": "search",
+    "ürün": "items",
+    "adet": "units",
+    "Beden": "Size",
+    "Reyonda": "On the shop floor",
+    "Depoda": "In the stockroom",
+    "Depo": "Stockroom",
+    "İstek": "Request",
+    "dk": "min",
+    "beden": "size",
+    "Hedefte okutulan konum": "Scanned destination location",
+    "Ara": "Midday"
+  }
+}

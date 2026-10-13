@@ -1,0 +1,284 @@
+{
+  "purpose": {
+    "chapter": "The idea",
+    "title": "Clarity for customers. Control for the team.",
+    "body": "I designed Request Point to keep customers informed while the team manages each request in one record. Alongside the in-store screen, I propose app requests from phones with a verified Zara Wi-Fi connection at the selected store.",
+    "label": "How the project works"
+  },
+  "home": {
+    "chapter": "Customer",
+    "title": "An easy start to the store experience.",
+    "body": "Two clear choices separate new requests from tracking. Plain language and large buttons help customers of different ages use the screen with less assistance.",
+    "label": "In-store request screen"
+  },
+  "entry": {
+    "chapter": "Customer",
+    "title": "Less typing. Easier item selection.",
+    "body": "Label scanning makes it easier to enter an item, with manual entry available too. Customers can choose the right size without having to describe the product again.",
+    "label": "Product reference"
+  },
+  "stock": {
+    "chapter": "Customer",
+    "title": "Customers see their options together.",
+    "body": "Shop-floor and stockroom quantities appear separately on one screen. Customers can find the displayed item or request available stockroom stock, without asking again for the same information.",
+    "label": "Shop-floor and stockroom availability"
+  },
+  "map": {
+    "chapter": "Customer",
+    "title": "Clearer guidance through the store.",
+    "body": "A larger map, highlighted area and animated route help customers find the item. Table, wall or rail details make the location clearer. This sample route starts at the centre; the actual route needs store validation.",
+    "label": "2298/047 · sample location and route"
+  },
+  "no-stock": {
+    "chapter": "Customer",
+    "title": "Clear availability before the wait.",
+    "body": "If an item is unavailable on both the shop floor and in the stockroom, the screen says so. Requiring available stock before a request helps set expectations and avoid searches with no recorded stock.",
+    "label": "Unavailable size"
+  },
+  "request": {
+    "chapter": "Customer",
+    "title": "Set expectations from the start.",
+    "body": "The customer is told that, if found, the item is expected at the relevant request point in 20–25 minutes. The next step is clear, without repeatedly asking the adviser for a time estimate.",
+    "label": "Request received · W-1"
+  },
+  "basket": {
+    "chapter": "Customer",
+    "title": "Several items, one basket.",
+    "body": "Customers add women’s, men’s and kids’ items to one basket. Each department keeps its own sequence: W-1, W-2; M-1, M-2; K-1, K-2. Staff can follow every item as a separate request.",
+    "label": "Women’s, men’s and children’s items in one basket"
+  },
+  "contact": {
+    "chapter": "Customer",
+    "title": "Let customers choose how to stay informed.",
+    "body": "A phone number is entered once per basket for WhatsApp or SMS. Customers who do not want notifications can track by code. This avoids repeated entry and leaves the choice with the customer.",
+    "label": "Update preference"
+  },
+  "qr": {
+    "chapter": "Customer",
+    "title": "A simpler link to the existing account.",
+    "body": "I propose linking the in-store basket by scanning the customer’s existing Zara account QR. The aim is easier tracking without a new account. A live connection requires authorised account verification.",
+    "label": "Account QR reader area"
+  },
+  "app": {
+    "chapter": "Customer",
+    "title": "Request updates stay with the customer.",
+    "body": "Customers can follow an account-linked request while browsing the store. This could reduce repeated status questions for advisers. The screen demonstrates a proposed app feature.",
+    "label": "Proposed Zara request status screen"
+  },
+  "lookup": {
+    "chapter": "Customer",
+    "title": "Tracking without a phone.",
+    "body": "Customers can view the result on the in-store screen using the department and request code. The service remains available to those who do not use the app, without displaying personal details in the lookup.",
+    "label": "Track request W-1"
+  },
+  "queue": {
+    "chapter": "Stockroom",
+    "title": "A complete task for the stockroom.",
+    "body": "Item, size and department reach the team in one record. Staff mark when the search begins, helping reduce information lost in verbal handovers and duplicated work.",
+    "label": "Stockroom handheld · new request"
+  },
+  "search": {
+    "chapter": "Stockroom",
+    "title": "Everyone can see that the search has started.",
+    "body": "Stockroom actions update the customer’s screen. Customers know their request is being handled while staff focus on the search. A ready notification is not sent before the item is found.",
+    "label": "Staff action and customer status"
+  },
+  "found": {
+    "chapter": "Stockroom",
+    "title": "The right item in the right size.",
+    "body": "The label is checked against the reference, colour and size. Keeping mismatched items out of preparation helps prevent collection errors and another wait for the customer.",
+    "label": "Item verification"
+  },
+  "cart": {
+    "chapter": "Stockroom",
+    "title": "Item movements stay visible to the team.",
+    "body": "Verified items are loaded onto the department’s trolley. Dispatch cannot complete until every requested unit is loaded. Staff can see where each item is in the same record.",
+    "label": "Trolley loading"
+  },
+  "transit": {
+    "chapter": "Collection",
+    "title": "Give the right update at the right time.",
+    "body": "Dispatched items show as “On the way”. Customers know the item is travelling and can keep browsing without being directed to collection too early.",
+    "label": "Item on its way to the request point"
+  },
+  "ready": {
+    "chapter": "Collection",
+    "title": "A clear destination when the item is ready.",
+    "body": "Once arrival is confirmed, customers are directed to the relevant department’s request point. The message focuses on where to go, without shelf names or a request to show a code.",
+    "label": "Ready to collect · 20-minute collection window"
+  },
+  "delivered": {
+    "chapter": "Collection",
+    "title": "Completed work leaves the open queue.",
+    "body": "Staff record collection and both the customer’s screen and open queue update. The stockroom manager can distinguish work still waiting from completed requests.",
+    "label": "Collection completed"
+  },
+  "collection-timeout": {
+    "chapter": "Collection",
+    "title": "Uncollected items remain under control.",
+    "body": "In the proposed flow, an item not collected within 20 minutes of being ready enters the return process. Staff keep tracking it; it does not count as available stock before reaching the stockroom.",
+    "label": "W-2 · collection window ended"
+  },
+  "returned": {
+    "chapter": "Collection",
+    "title": "Stock follows the physical item.",
+    "body": "Scanning the returned label completes the return. Preventing a new request for an item still at collection supports stock accuracy and more reliable customer information.",
+    "label": "Return to stockroom confirmed"
+  },
+  "reasons": {
+    "chapter": "When an item cannot be found",
+    "title": "Simple for staff. Useful for managers.",
+    "body": "Four reasons cover stock discrepancies, outdated locations, unsuitable items and “Other”. A short list keeps the task straightforward and makes recurring issues easier to review.",
+    "label": "Reasons for an unsuccessful search"
+  },
+  "other-note": {
+    "chapter": "When an item cannot be found",
+    "title": "Keep the detail needed to resolve an issue.",
+    "body": "“Other” opens a short explanation field. The note stays in the control and handover records. Customers receive a simple outcome while staff retain the detail needed to act.",
+    "label": "Other · explanation field"
+  },
+  "second-search": {
+    "chapter": "When an item cannot be found",
+    "title": "A second check before the final outcome.",
+    "body": "Stock discrepancies and special cases trigger a second search. The aim is to avoid closing a request too soon and provide a checked outcome. Earlier notes remain available to the next team.",
+    "label": "Second search"
+  },
+  "unavailable": {
+    "chapter": "When an item cannot be found",
+    "title": "Keep customers informed of unsuccessful searches.",
+    "body": "If the second search also fails, the request closes and the customer is informed. This avoids an open-ended wait while keeping internal notes out of the customer view.",
+    "label": "Item could not be supplied"
+  },
+  "count": {
+    "chapter": "Stockroom manager",
+    "title": "Address recurring stock issues at the source.",
+    "body": "Physical counts and check results are recorded. New allocations for the item stop until the issue is resolved. Managers can address the cause instead of handling repeated unsuccessful searches.",
+    "label": "Stock control · count result"
+  },
+  "floor-check": {
+    "chapter": "Stockroom manager",
+    "title": "Reassign the task without losing context.",
+    "body": "An outdated stockroom location can lead to a shop-floor check. The request and notes pass to the support team, so the customer does not have to explain the request again.",
+    "label": "Location check and reassignment"
+  },
+  "damaged": {
+    "chapter": "When an item cannot be found",
+    "title": "Check item condition before collection.",
+    "body": "Damaged or unsuitable items are not sent to customers. The reason and stock control task help staff follow up and prevent the same item being allocated again.",
+    "label": "Item unfit for sale"
+  },
+  "manager-queue": {
+    "chapter": "Stockroom manager",
+    "title": "A clear workload view for the manager.",
+    "body": "Waiting time, delayed stage and responsible team appear together. Managers can direct support where it is needed and set priorities using the recorded workload.",
+    "label": "Open work and delays"
+  },
+  "capacity": {
+    "chapter": "Stockroom manager",
+    "title": "Manage service around team capacity.",
+    "body": "Workload status and pausing new requests are separate controls. Existing requests remain active. This makes pressure visible and helps avoid expectations the team cannot meet.",
+    "label": "Stockroom capacity"
+  },
+  "online": {
+    "chapter": "Stockroom manager",
+    "title": "Avoid promising the same stock twice.",
+    "body": "Store requests, online orders and replenishment tasks share stock allocations. Only unallocated units are available for new requests, supporting consistent stock management across channels.",
+    "label": "Shared stock allocations"
+  },
+  "replenish": {
+    "chapter": "Stockroom manager",
+    "title": "Use requests to inform replenishment.",
+    "body": "Request demand and shop-floor quantity are considered together. Managers can create replenishment tasks where needed and use item requests to inform floor planning.",
+    "label": "Shop-floor replenishment task"
+  },
+  "replenished": {
+    "chapter": "Stockroom manager",
+    "title": "Updated floor stock supports better guidance.",
+    "body": "Scanning the item at its destination updates the shop-floor quantity. The completed movement is recorded for staff and the customer screen reflects the new position.",
+    "label": "Shop-floor stock updated"
+  },
+  "handover": {
+    "chapter": "Stockroom manager",
+    "title": "A new shift with the same context.",
+    "body": "Open requests, stock issues, trolleys and replenishment tasks are brought into one handover record. The incoming team can continue without reconstructing the previous shift’s work.",
+    "label": "Shift handover record"
+  },
+  "accepted": {
+    "chapter": "Stockroom manager",
+    "title": "A clear handover record and acceptance time.",
+    "body": "The incoming shift’s acceptance is timestamped. Managers can see which tasks were handed over and when, reducing reliance on individual memory.",
+    "label": "Shift handover accepted"
+  },
+  "app-option": {
+    "chapter": "Option 2 · Zara app",
+    "title": "Customer choice. One workflow for the team.",
+    "body": "The in-store screen remains available to everyone. In the second option, customers submit from their own Zara accounts after that store’s Wi-Fi connection is verified. Both channels share the same stockroom and collection process.",
+    "label": "Second proposal · requests from the Zara app"
+  },
+  "app-adviser": {
+    "chapter": "Option 2 · Zara app",
+    "title": "More room for personal service.",
+    "body": "With a brief explanation, customers can connect to Zara Wi-Fi and use their own phones. Reducing repeated data entry and status questions is intended to give advisers more time for product advice and customer support.",
+    "label": "Sales adviser guidance"
+  },
+  "app-product": {
+    "chapter": "Option 2 · Zara app",
+    "title": "An extension of the shopping experience.",
+    "body": "Customers select an item and size in their accounts and see both shop-floor and stockroom availability. They can prepare a basket, but creating stockroom work requires verified Zara Wi-Fi at the selected store.",
+    "label": "Proposed Zara app product screen"
+  },
+  "app-basket": {
+    "chapter": "Option 2 · Zara app",
+    "title": "No need to enter personal details again.",
+    "body": "The signed-in customer adds several items to one basket. There is no extra phone, email, name or account-QR step. Customers have fewer steps and staff do not need to enter their details.",
+    "label": "In-app request basket"
+  },
+  "app-submit": {
+    "chapter": "Option 2 · Zara app",
+    "title": "Three checks before submission.",
+    "body": "The store connection, total items requested in the past 15 minutes and available stock are checked. Eligible baskets enter the shared queue. Central enforcement is required to keep the rules consistent across sessions.",
+    "label": "My requests · account-linked tracking"
+  },
+  "app-queue": {
+    "chapter": "Option 2 · Zara app",
+    "title": "One queue for the team.",
+    "body": "App requests follow the same search, verification and collection steps as the in-store screen. The aim is to offer customer choice while keeping staff work in one queue.",
+    "label": "App request on the stockroom handheld"
+  },
+  "app-ready": {
+    "chapter": "Option 2 · Zara app",
+    "title": "Tracking works even without notifications.",
+    "body": "Arrival at the request point updates the app to ready. A notification is sent if enabled; otherwise the status remains in My Requests. Customers can see when and where to collect.",
+    "label": "Ready-to-collect update in the app"
+  },
+  "app-delivered": {
+    "chapter": "Option 2 · Zara app",
+    "title": "The same outcome for customers and staff.",
+    "body": "Recording collection also completes the app request. Unavailable or uncollected items follow the same checks and returns as the in-store screen, keeping the process consistent across channels.",
+    "label": "Collection completed in the app"
+  },
+  "next": {
+    "chapter": "Store trial",
+    "title": "Start with evidence. Improve with the team.",
+    "body": "After the required integrations are approved, I propose a trial in one department. I would compare the waiting experience, status questions to advisers, stockroom search time and recurring stock issues with the current process.",
+    "label": "Next step towards store use"
+  },
+  "app-wifi": {
+    "chapter": "Option 2 · Store connection",
+    "title": "Zara Wi-Fi is required to send a request.",
+    "body": "Each submission verifies the Zara Wi-Fi connection for the selected store. The aim is to limit off-site requests and protect the team’s time for store customers. A network name alone is not proof of connection.",
+    "label": "Store Wi-Fi verification · demo"
+  },
+  "app-limit": {
+    "chapter": "Option 2 · Request limit",
+    "title": "A limit of 10 items in 15 minutes.",
+    "body": "I propose up to 10 items per account in any 15-minute period. Cancellation or collection does not reduce the count; refreshing or closing the app does not reset it. This is intended to limit repeated requests that disrupt service for others.",
+    "label": "New submissions wait when the limit is reached"
+  },
+  "brand-fit": {
+    "chapter": "Connection to Zara services",
+    "title": "A proposal that builds on existing services.",
+    "body": "Zara Wi-Fi and item finding within Store Mode are the existing services behind this proposal. Request Point would add stockroom requests and tracking. The Wi-Fi requirement and the 10-item limit in 15 minutes are proposed rules for this project.",
+    "label": "Existing services, proposed value and implementation conditions"
+  }
+}
